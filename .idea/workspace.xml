@@ -2,9 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b22f7b-7fc2-4a74-80cb-17c27308563f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/map/map.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/map/map.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/map/map.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/map/map.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/directives/text-format.directive.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/directives/text-format.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/pipes/filter.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/pipes/filter.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/assets/obrazek.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog" beforeDir="false" afterPath="$PROJECT_DIR$/blog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
@@ -45,6 +97,7 @@
     <session id="264286182">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -77,21 +130,116 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="637945648">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="1" />
+          <entry key="html" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="2" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
+            <state relative-caret-position="17">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/assets/obrazek.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/assets/jak.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -103,13 +251,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blog/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/home/home.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/map/map.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" />
         <option value="$PROJECT_DIR$/blog/src/styles.css" />
         <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.css" />
         <option value="$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/home/home.component.html" />
       </list>
     </option>
   </component>
@@ -166,6 +315,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IAI_L8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IAI_L8" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IAI_L8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IAI_L8" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,9 +342,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548076866281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548081361455" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="ts.external.directory.path" value="C:\IAI_L8\blog\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\IAI_L8\blog\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,17 +369,18 @@
       <option name="presentableId" value="Default" />
       <updated>1548070597642</updated>
       <workItem from="1548070599380" duration="517000" />
-      <workItem from="1548074090086" duration="3121000" />
+      <workItem from="1548074090086" duration="3980000" />
+      <workItem from="1548079773882" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3638000" />
+    <option name="totallyTimeSpent" value="6142000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25835475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -229,8 +396,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.35188216" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.351752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32614556" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -250,35 +417,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#form#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/map/map.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -286,46 +428,22 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/block/src/styles.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/block/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/block/src/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/block/src/assets/jak.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/tslint.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -357,26 +475,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/nav-bar/nav-bar.component.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -387,13 +490,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
+        <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#select#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/assets/obrazek.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/assets/jak.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
